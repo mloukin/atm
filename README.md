@@ -5,7 +5,6 @@
 * java 17
 * Spring Boot 3
 * lombok
-* Cache (coffine)
 * Actuator
 * Logback
 * JPA
